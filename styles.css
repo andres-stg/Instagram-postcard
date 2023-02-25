@@ -1,0 +1,46 @@
+@import url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2);
+/* @import url('https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css'); */
+
+/* .post {
+    border: 20rem solid black;
+    align-items: baseline;
+} */
+
+.logo {
+    float: left;
+    width: 7%;
+}
+
+.dots {
+    float: right;
+    width: 6.5%;
+    position: relative;
+    bottom: 95px;
+}
+
+.heart {
+    width: 4.5%;
+    padding: 1px 7px 0px 28px;
+}
+
+.comment {
+    width: 4%;
+    padding: 0px 4px 2px 0px;
+}
+
+.share {
+    width: 4.3%;
+    padding: 3px 1030px 0px 0px;
+    align-items: baseline;
+}
+
+.save {
+    width: 4.5%;
+    padding: 3px 0px 0px 0px;
+}
+
+
+p {
+    margin-left: 25px;
+    margin-right: 10px;
+}
